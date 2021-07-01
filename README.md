@@ -1,21 +1,21 @@
-#My Portfolio
+# My Portfolio
 
-##Table of Contents
+## Table of Contents
 
 * [General Info](#general-info)
 * [Technologies](#technologies)
 * [Project Status](#project-status)
 
-##General Info
+## General Info
 
 A website containing my portfolio and CV.
 
-##Technologies
+## Technologies
 
 * HTML
 * CSS
 * JavaScript
 
-##Project Status
+## Project Status
 
 WIP.
