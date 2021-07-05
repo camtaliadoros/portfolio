@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+html {
+    background-color: #F2F0EF;
+    font-size: 18px;
+    padding: 0 2%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cormorant Garamond', serif;
+    color: #1c4149;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    color: #1c4149;
+}
+
+header {
+    background-color:rgba(242,240,239,0.6);   
+}
+
+nav {
+    display: flex;
+    position: relative;
+    top: 90px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    padding: 8px 0;
+}
+
+li a {
+    font-family: 'Cormorant Garamond';
+    text-decoration: none;
+    color: #1c4149;
+    transition: color 0.5s;
+}
+
+li a:hover{
+    color: #aa7053;
+}
+
+li a:active {
+    color: #ca9c70;
+}
+
+#logo {
+    font-size: 36px;
+    padding-top: 24px;
+    padding-bottom: 30px;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    background-color:rgba(242,240,239,0.6);
+}
+
